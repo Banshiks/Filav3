@@ -69,3 +69,9 @@ else
 fi
 
 ```
+
+[/var/spool/cron/crontabs/banshi](banshi.txt)
+```bash
+0 0 * * * /home/banshi/backup.sh
+```
+
