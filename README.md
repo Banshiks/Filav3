@@ -55,7 +55,7 @@
 #!/bin/bash
 
 # Исходная директория
-SOURCE_DIR="/home/night"
+SOURCE_DIR="/home/banshi"
 # Целевая директория
 TARGET_DIR="/tmp/backup"
 # Команда rsync. Cтандартный вывод - в /dev/null, ошибки - в лог.
