@@ -75,3 +75,4 @@ fi
 0 0 * * * /home/banshi/backup.sh
 ```
 
+![](images/задание2.png)
